@@ -26,4 +26,3 @@
 
 ---
 
-![Views](https://komarev.com/ghpvc/?username=Izzahsheikh&color=blueviolet&style=flat-square)
