@@ -1,5 +1,5 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&width=435&lines=Hi!+I'm+Izzah+👋;CS+Student+%7C+Developer;I+love+building+things+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&width=435&lines=Hi!+I'm+Izzah+;CS+Student+%7C+Developer;I+love+building+things+💻)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,5 +14,3 @@
 
 [![Streak](https://streak-stats.demolab.com?user=Izzahsheikh&theme=tokyonight)](https://git.io/streak-stats)
 
-## 👁️ Profile Views
-![Views](https://komarev.com/ghpvc/?username=Izzahsheikh&color=blueviolet&style=flat-square)
