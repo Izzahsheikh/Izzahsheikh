@@ -1,5 +1,5 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&width=435&lines=Hi!+I'm+Izzah+;CS+Student+%7C+Developer;I+love+building+things+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&width=435&lines=Hi!+I'm+Izza+;CS+Student+%7C+Developer;I+love+building+things+💻)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
